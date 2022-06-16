@@ -1,7 +1,7 @@
-### Jean Paul
-> A person who is bored on his pc.
+### Jean Paul 🍀
+> A person who is bored on his pc. 💻
 
-I love MCDonalds like a fatass bitch, im not fat tho.
+I love MCDonalds 🍟 like a fatass bitch, im not fat tho.
 
 [![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=raiderxd404&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,20 +20,5 @@ I love MCDonalds like a fatass bitch, im not fat tho.
 [![Saturn Swapper](https://github-readme-stats.vercel.app/api/pin/?username=tamely&repo=SaturnSwapper&theme=gruvbox_light)](https://github.com/tamely/saturnswapper)
 
 
-## Contact Me
+## 💬 Contact Me 
   ![Discord](https://discord.c99.nl/widget/theme-4/851531163193311234.png)
-
-<!--
-**RaiderxD404/RaiderxD404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
