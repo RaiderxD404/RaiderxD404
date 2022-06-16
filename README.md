@@ -14,9 +14,9 @@ I love MCDonalds 🍟 like a fatass bitch, im not fat tho.
 ### 🎈 Working on...
 
 
-#### Swapping connect, The best, easiest, safest and fasted way to use plugins!
+#### 💜 Swapping connect, The best, easiest, safest and fasted way to use plugins!
 [![Swapping Connect](https://github-readme-stats.vercel.app/api/pin/?username=fruthy-ue&repo=Swapping-Connect-v2&theme=gruvbox_light)](https://github.com/fruthy-ue/swapping-connect-v2)
-#### Saturn Swapper, Most advanced Fortnite Skin Swapper to this date.
+#### 🪐 Saturn Swapper, Most advanced Fortnite Skin Swapper to this date.
 [![Saturn Swapper](https://github-readme-stats.vercel.app/api/pin/?username=tamely&repo=SaturnSwapper&theme=gruvbox_light)](https://github.com/tamely/saturnswapper)
 
 
